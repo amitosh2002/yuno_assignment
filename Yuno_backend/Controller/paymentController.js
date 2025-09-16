@@ -7,12 +7,7 @@ import Order from '../Models/orderModel.js';
 import WebhookEvent from '../Models/webhookEventModel.js';
 import User from "../Models/userModel.js"
 
-// import PaymentSession from '../models/PaymentSession.js';
 
-// import axios from "axios";
-// import Order from "../Models/orderModel.js";
-// import PaymentSession from "../Models/paymentSessionModel.js";
-// import User from "../Models/userModel.js";
 
 const YUNO_API_BASE = "https://api-sandbox.y.uno/v1";
 // controllers/paymentController.js
