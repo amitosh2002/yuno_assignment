@@ -28,7 +28,19 @@ The project is organized into two main directories:
 
 * `Yuno_payments/`: Contains the React frontend code.
 * `Yuno_backend/`: Contains the Express.js backend code.
+* To run the project First run the command in npm install
+* npm run dev
+* # Install backend dependencies
+cd Yuno_backend
+npm install
 
+# Install frontend dependencies
+cd ../Yuno_payments
+npm install
+# To Run the Project got to the Parent folder yuno assignment then run these command
+*npm install
+*npm run dev 
+*This will automatically run both the frontend and backend
 ---
 
 ## ⚙️ Setup and Installation
